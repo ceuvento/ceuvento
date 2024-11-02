@@ -14,4 +14,4 @@
 * Изучением Java, JavaScript и его технология
 
 **Связаться со мной:** 
-* Discord [https://discord.com/users/1298622039501836350] 
+* [Discord](https://discord.com/users/1298622039501836350) 
