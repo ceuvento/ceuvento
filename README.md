@@ -11,9 +11,10 @@
 * **JavaScript:** React, Node.js
 
 👀 **В данный момент интересуюсь:**
-* Изучением Java, JavaScript и его технология
+* Изучением Java, JavaScript и их технологии
 
 📈 **Статистика профиля:**
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ceuvento&show_icons=true&theme=dark)
 
 📫 **Связаться со мной:** [Discord](https://discord.com/users/1298622039501836350)
