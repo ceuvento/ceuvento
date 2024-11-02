@@ -13,5 +13,7 @@
 👀 **В данный момент интересуюсь:**
 * Изучением Java, JavaScript и его технология
 
-📱 **Связаться со мной:** 
-* [Discord](https://discord.com/users/1298622039501836350) 
+📈 **Статистика профиля:**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ceuvento&show_icons=true&theme=dark)
+
+📫 **Связаться со мной:** [Discord](https://discord.com/users/1298622039501836350)
